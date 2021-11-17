@@ -1,4 +1,4 @@
-# centre-tokens
+# Dunia-tokens
 
 CFA tokens on the [DUNIAPAY](https://duniapay.net) network.
 
