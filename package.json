@@ -67,7 +67,7 @@
     "prettier": "2.0.5",
     "prettier-plugin-solidity": "1.0.0-alpha.54",
     "q": "^1.5.1",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "sol-merger": "^3.1.0",
     "solhint": "^3.1.0",
     "solidity-coverage": "^0.7.9",
